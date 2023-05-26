@@ -280,7 +280,7 @@ class Main {
       System.out.println("Chegou");
       main();
     }else if(resposta == "N"){
-      System.out.println("A quantidade de alinos reprovados é de " + aluno_reprovado);
+      System.out.println("A quantidade de alunos reprovados é de " + aluno_reprovado);
       System.exit(0);
     }else{
       System.out.println("Digite um valor valor válido!");
