@@ -267,18 +267,16 @@ class Main {
     double notaFinal = notaAluno / 2;
     if (notaFinal < 6.5) {
     System.out.println("A média das notas é " + notaFinal + " - Aluno reprovado! Estude mais na próxima.");
-      // System.exit(0);
+      aluno_reprovado += 1;
     } else {
     System.out.println("A média das notas é " + notaFinal + " - Aluno aprovado! Parabéns!");
-      aluno_reprovado += 1;
-      // System.exit(0);
     }
     System.out.println("Deseja calcular outra média?");
     String resposta = scan.nextLine();
     
     if(resposta == "S"){
-      System.out.println("Chegou");
-      main();
+      // Montar os exercicios em funções
+      // System.exit(0);
     }else if(resposta == "N"){
       System.out.println("A quantidade de alunos reprovados é de " + aluno_reprovado);
       System.exit(0);
