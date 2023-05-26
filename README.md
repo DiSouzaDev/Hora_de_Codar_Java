@@ -3,24 +3,24 @@ Alguns exercícios do hora de codar utilizando a linguagem Java.
 
 1- Escreva um programa em Java e crie uma variável chamada "Planeta" e atribua-a um valor "Plutão".
 
-2- screva um programa em Java em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
+2- Escreva um programa em Java em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 
-3- screva um programa em Java em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem 
+3- Escreva um programa em Java em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem 
 "Olá, [NomeDoUsuario], sua idade é [idade]".
 
-4- Faça um algoritmo que calcule a área de um: Retângulo | Quadrado | Losango | Trapézio | Paralelogramo | Triângulo | Círculo
+4- Escreva um algoritmo que calcule a área de um: Retângulo | Quadrado | Losango | Trapézio | Paralelogramo | Triângulo | Círculo
 
-5- 2. Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
+5- Escreva um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
 
-6- Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
+6- Escreva um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
 
-6.1- Faça um programa para ler 4 valores e escrever o maior deles.
+6.1- Escreva um programa para ler 4 valores e escrever o maior deles.
 
-7- Faça um programa que leia 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
+7- Escreva um programa que leia 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 
-7.1- Faça um programa que leia 5 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
+7.1- Escreva um programa que leia 5 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 
-8- Faça um programa que leia 2 valores (considere que o segundo não pode ser zero) e escreva o resultado da divisão deles.
+8- Escreva um programa que leia 2 valores (considere que o segundo não pode ser zero) e escreva o resultado da divisão deles.
 
 9- Escreva um programa que leia 10 valores e calcule a média deles.
 
